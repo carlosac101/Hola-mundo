@@ -38,7 +38,7 @@ public class InformeGitHub {
             writer.write("git commit -m \"Primera versión del archivo Hola Mundo\"\n\n");
 
             writer.write("Se conectó el repositorio local a un repositorio remoto en GitHub:\n");
-            writer.write("git remote add origin https://github.com/tu_usuario/nombre_repositorio.git\n\n");
+            writer.write("git remote add origin https://github.com/carlosac101/Hola-mundo.git\n\n");
 
             writer.write("Se subió el archivo al repositorio remoto:\n");
             writer.write("git push -u origin main\n\n");
@@ -50,7 +50,7 @@ public class InformeGitHub {
             writer.write("2. informe.txt (este informe).\n\n");
 
             writer.write("Link al repositorio\n");
-            writer.write("[Repositorio en GitHub](https://github.com/tu_usuario/nombre_repositorio)\n\n");
+            writer.write("[Repositorio en GitHub](https://github.com/carlosac101/Hola-mundo.git)\n\n");
 
             writer.write("---\n");
             writer.write("Fecha de Entrega: 20 de Noviembre del 2024.\n");
