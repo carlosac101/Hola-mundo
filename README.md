@@ -25,7 +25,7 @@ Se realizó un commit con un mensaje descriptivo:
 git commit -m "Primera versión del archivo Hola Mundo"
 
 Se conectó el repositorio local a un repositorio remoto en GitHub:
-git remote add origin https://github.com/tu_usuario/nombre_repositorio.git
+git remote add origin https://github.com/carlosac101/Hola-mundo.git
 
 Se subió el archivo al repositorio remoto:
 git push -u origin main
@@ -37,7 +37,7 @@ Se subieron los siguientes archivos al repositorio de GitHub:
 2. informe.txt (este informe).
 
 Link al repositorio
-[Repositorio en GitHub](https://github.com/tu_usuario/nombre_repositorio)
+[Repositorio en GitHub](https://github.com/carlosac101/Hola-mundo.git)
 
 ---
 Fecha de Entrega: 20 de Noviembre del 2024.
